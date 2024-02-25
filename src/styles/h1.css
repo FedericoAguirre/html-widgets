@@ -1,0 +1,11 @@
+/* Header custom styles */
+.h1cst {
+    background-color: #0033ff;
+    color: white;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    padding: 0.25em 0.5em;
+    width: 100%;
+}
