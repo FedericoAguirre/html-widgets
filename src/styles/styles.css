@@ -1,5 +1,6 @@
 /* Header custom styles */
 h1 {
-    background-color: lightseagreen;
+    background-color: rgb(35,57,93);
+    color: rgb(241,245,248);
     padding: 0.25em 0.5em;
 }
